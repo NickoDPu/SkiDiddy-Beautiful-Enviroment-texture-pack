@@ -1,0 +1,53 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "SkiDiddy Ahh A Good Environment texture-packV1.0.0 Support: 1.21.5+/n OpenSource project on SkiDiddy GitHub Page!!",
+        "name": "SkiDiddy Beautiful Environment V1.0.0",
+        "uuid": "8f1a27a2-3434-4d53-a3b5-f8d076051590",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 21, 5]
+    },
+    "modules": [
+        {
+            "description": "SkiDiddy Ahh A Good Environment texture-pack",
+            "type": "resources",
+            "uuid": "1db3fcb4-a579-47a8-9d90-07c9965dc7a3",
+            "version": [1, 0, 0]
+        }
+    ],
+    "metadata": {
+      "authors": ["NickL", "GitHub Contributors"]
+    },
+    "subpacks": [
+        {
+         "folder_name": "custom-sky01",
+			"name": "§aCustom Realistic SkyMapV1",
+			"memory_tier": 5
+        },
+        {
+        "folder_name": "custom-sky02",
+        "name": "§aCustom Realistic SkyMapV2",
+        "memory_tier": 4
+        },
+        {
+        "folder_name": "custom-sky03",
+        "name": "§aCustom Realistic SkyMapV3 with NightTime Aurora",
+        "memory_tier": 3
+        },
+        {
+        "folder_name": "custom-sky04",
+        "name": "§aCustom Realistic SkyMapV4 With No transparency",
+        "memory_tier": 2
+        },
+        {
+        "folder_name": "custom-sky05",
+        "name": "§aCustom Realistic SkyMapV5 With No transparency",
+        "memory_tier": 1
+        },
+        {
+        "folder_name": "default",
+        "name": "§aVanilla Minecraft Environment",
+        "memory_tier": 0
+        }
+    ]
+}
