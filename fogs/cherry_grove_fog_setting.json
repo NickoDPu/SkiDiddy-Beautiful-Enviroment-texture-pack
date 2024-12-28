@@ -1,0 +1,22 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:fog_settings": {
+    "description": {
+      "identifier": "minecraft:fog_cherry_grove"
+    },
+    "distance": {
+      "air": {
+        "fog_start": 10.0,
+        "fog_end": 64.0,
+        "fog_color": "#ff86ea", //edited
+        "render_distance_type": "fixed"
+      },
+      "water": {
+        "fog_start": 5.0,
+        "fog_end": 15.0,
+        "fog_color": "#5db7ef",
+        "render_distance_type": "fixed"
+      }
+    }
+  }
+}
