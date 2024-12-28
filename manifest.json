@@ -3,7 +3,7 @@
     "header": {
         "description": "SkiDiddy Ahh A Good Environment texture-packV1.0.0 Support: 1.21.5+/n OpenSource project on SkiDiddy GitHub Page!!",
         "name": "SkiDiddy Beautiful Environment V1.0.0",
-        "uuid": "8f1a27a2-3434-4d53-a3b5-f8d076051590",
+        "uuid": "f8453adb-39e5-4756-b375-8c549174a85f",
         "version": [1, 0, 0],
         "min_engine_version": [1, 21, 5]
     },
@@ -11,7 +11,7 @@
         {
             "description": "SkiDiddy Ahh A Good Environment texture-pack",
             "type": "resources",
-            "uuid": "1db3fcb4-a579-47a8-9d90-07c9965dc7a3",
+            "uuid": "984c893c-fd07-42f1-88b2-2b27d8aac9c6",
             "version": [1, 0, 0]
         }
     ],
@@ -21,8 +21,8 @@
     "subpacks": [
         {
          "folder_name": "custom-sky01",
-			"name": "§aCustom Realistic SkyMapV1",
-			"memory_tier": 5
+	 "name": "§aCustom Realistic SkyMapV1",
+	 "memory_tier": 5
         },
         {
         "folder_name": "custom-sky02",
